@@ -10,5 +10,8 @@
         <module name="carbooking-cli" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
